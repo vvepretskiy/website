@@ -48,8 +48,7 @@ h1 {
 .banner2 {
   font-weight:300;
   color:#ffffff;
-  padding-top:3%;
-  padding-bottom:3%;
+  padding-block:3%;
   font-size:21px;
   letter-spacing:0.03em;
   line-height:32px;
@@ -61,8 +60,7 @@ h1 {
 .banner3 {
   font-weight:300;
   color:#ffffff;
-  padding-top:5%;
-  padding-bottom:5%;
+  padding-block:5%;
   font-size:21px;
   letter-spacing:0.03em;
   line-height:32px;
@@ -73,8 +71,7 @@ h1 {
 .banner4 {
   font-weight:300;
   color:#ffffff;
-  padding-top:5%;
-  padding-bottom:5%;
+  padding-block:5%;
   font-size:21px;
   letter-spacing:0.03em;
   line-height:32px;
@@ -85,8 +82,7 @@ h1 {
 .banner5 {
   font-weight:300;
   color:#ffffff;
-  padding-top:3%;
-  padding-bottom:3%;
+  padding-block:3%;
   font-size:21px;
   letter-spacing:0.03em;
   line-height:32px;
@@ -274,8 +270,7 @@ h4 {
   .banner2 {
     font-weight:300;
     color:#ffffff;
-    padding-top:4%;
-    padding-bottom:4%;
+    padding-block:4%;
     padding-left:0%;
     font-size:18px;
     letter-spacing:0.03em;
